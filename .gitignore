@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/SDCT/.config/dotnet-tools.json
+/SDCT/Properties/ServiceDependencies/testCodeChall - Web Deploy/profile.arm.json
+/SDCT.zip
